@@ -2,8 +2,10 @@ package inventorymanagement;
 
 import java.sql.Connection;
 import java.sql.SQLException;
+
 import javax.swing.JOptionPane;
 import javax.swing.JPanel;
+
 import org.apache.commons.dbcp2.*;
 
 public class ConnectDatabase {
